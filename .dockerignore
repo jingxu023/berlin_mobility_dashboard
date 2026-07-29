@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+
+
+# Local virtual environments
+venv/
+.venv/
+
+
+
+# Git / IDE / macOS
+.git/
+.gitignore
+
+.vscode/
+.idea/
+
+.DS_Store
+
+
+
+# Logs / temporary files
+*.log
+*.tmp
+
+
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+
+# Raw source data
+# The deployed dashboard reads processed analytical data,
+# not the original Excel / GTFS / raw GeoJSON sources.
+data/raw/
+
+
+
+# Development-only files
+scripts/
+
+README.md

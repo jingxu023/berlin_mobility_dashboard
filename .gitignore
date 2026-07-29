@@ -1,0 +1,24 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Local configuration
+.env
+.streamlit/secrets.toml
+
+# Raw source data
+data/raw/
+
+# Logs and temporary files
+*.log
+*.tmp

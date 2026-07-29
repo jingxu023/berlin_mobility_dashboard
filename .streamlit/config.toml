@@ -1,0 +1,50 @@
+[theme]
+base = "light"
+
+# Main Berlin Mobility accent
+primaryColor = "#0B63B6"
+
+# Main page
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F4F7FA"
+textColor = "#1F2937"
+
+# Typography
+font = "sans-serif"
+headingFont = "sans-serif"
+
+# Borders and shape
+borderColor = "#D9E1EA"
+baseRadius = "0.65rem"
+buttonRadius = "0.65rem"
+showWidgetBorder = true
+showSidebarBorder = true
+
+# Links
+linkColor = "#0B63B6"
+linkUnderline = false
+
+# Data tables
+dataframeBorderColor = "#D9E1EA"
+dataframeHeaderBackgroundColor = "#F4F7FA"
+
+# Code blocks
+codeBackgroundColor = "#F4F7FA"
+
+# Shared chart palette
+chartCategoricalColors = [
+    "#0B63B6",
+    "#67A9E4",
+    "#2A9D8F",
+    "#E9A23B",
+    "#D95D5D",
+    "#7668D9"
+]
+
+
+[theme.sidebar]
+backgroundColor = "#F7F9FC"
+secondaryBackgroundColor = "#EAF0F6"
+primaryColor = "#0B63B6"
+textColor = "#263442"
+borderColor = "#D9E1EA"

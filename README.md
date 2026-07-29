@@ -16,7 +16,7 @@ The project combines Berlin open data with VBB static GTFS data. It looks at how
 
 ## Preview
 
-![Berlin Mobility Dashboard Overview](assets/overview.png)
+![Berlin Mobility Dashboard Demo](assets/demo.gif)
 
 ---
 

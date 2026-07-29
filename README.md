@@ -10,7 +10,7 @@ The project combines Berlin open data with VBB static GTFS data. It looks at how
 
 ## Live Demo
 
-**Streamlit App:** `<YOUR_STREAMLIT_APP_URL>`
+**Streamlit App:** `<https://berlinmobilitydashboard-4eibuf5vz6xzvr4vuj7hw3.streamlit.app/>`
 
 ---
 
